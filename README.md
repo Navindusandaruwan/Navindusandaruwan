@@ -1,3 +1,6 @@
+
+![MasterHead](https://th.bing.com/th/id/R.618f083c61a7460ce0a6064319af41bd?rik=xVh09emgHbJ7GA&pid=ImgRaw&r=0)
+
 <h1 align="center">Hi 👋, I'm Navindu Sandharuwan</h1>
 <h3 align="center">A passionate frontend software developer from Sri lanka</h3>
 
